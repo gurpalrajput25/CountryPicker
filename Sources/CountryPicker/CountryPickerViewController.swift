@@ -260,11 +260,29 @@ public final class CountryPickerViewController: UIViewController {
         if query?.count == 0 {
             filteredCountries = countries
         } else if let text = query {
-            filteredCountries = countries
-                .filter { $0.localizedName.localizedLowercase.contains(text.localizedLowercase) }
+            let lowercasedQuery = text.localizedLowercase
+            
+            // Normalize phone code by removing the '+' sign for comparison
+            let normalizedQuery = lowercasedQuery.replacingOccurrences(of: "+", with: "")
+            
+            // Filter by country name, country code, ISO country code or phone code
+            filteredCountries = countries.filter { country in
+                let name = country.localizedName.localizedLowercase
+                let isoCode = country.isoCode.localizedLowercase
+                let phoneCode = country.phoneCode.localizedLowercase
+                let normalizedPhoneCode = phoneCode.replacingOccurrences(of: "+", with: "")
+                
+                // Check if any of these fields match the search query
+                return name.contains(lowercasedQuery) ||
+                    isoCode.contains(lowercasedQuery) ||
+                    phoneCode.contains(lowercasedQuery) ||
+                    normalizedPhoneCode.contains(normalizedQuery)
+            }
         }
         tableView.reloadData()
     }
+
+
 }
 
 // MARK: - UITableViewDataSource & UITableViewDelegate
