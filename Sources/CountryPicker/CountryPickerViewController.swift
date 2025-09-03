@@ -177,15 +177,20 @@ public final class CountryPickerViewController: UIViewController {
     override public func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         // Reload default country list every time
-        
-           countries = CountryManager.shared.getCountries().sorted {
-               $0.localizedName.localizedCaseInsensitiveCompare($1.localizedName)
-               == CountryManager.shared.config.countriesSortingComparisonResult
-           }
+          countries = CountryManager.shared.getCountries().sorted {
+              $0.localizedName.localizedCaseInsensitiveCompare($1.localizedName)
+              == CountryManager.shared.config.countriesSortingComparisonResult
+          }
 
-           filteredCountries = countries
-           searchTextField.text = ""
-           tableView.reloadData()
+          // 🔑 Reapply selected country to top
+          if let selectedIndex = countries.firstIndex(where: { $0.isoCode == selectedCountry }) {
+              let country = countries.remove(at: selectedIndex)
+              countries.insert(country, at: 0)
+          }
+
+          filteredCountries = countries
+          searchTextField.text = ""
+          tableView.reloadData()
     }
 
     func setup() {
