@@ -1,962 +1,847 @@
-[
-  {
+[{
     "phoneCode": "93",
-    "isoCode": "AF"
-  },
-  {
-    "phoneCode": "355",
-    "isoCode": "AL"
-  },
-  {
-    "phoneCode": "213",
-    "isoCode": "DZ"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "AS"
-  },
-  {
-    "phoneCode": "376",
-    "isoCode": "AD"
-  },
-  {
-    "phoneCode": "244",
-    "isoCode": "AO"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "AI"
-  },
-  {
-    "phoneCode": "672",
-    "isoCode": "AQ"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "AG"
-  },
-  {
-    "phoneCode": "54",
-    "isoCode": "AR"
-  },
-  {
-    "phoneCode": "374",
-    "isoCode": "AM"
-  },
-  {
-    "phoneCode": "297",
-    "isoCode": "AW"
-  },
-  {
-    "phoneCode": "61",
-    "isoCode": "AU"
-  },
-  {
-    "phoneCode": "43",
-    "isoCode": "AT"
-  },
-  {
-    "phoneCode": "994",
-    "isoCode": "AZ"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "BS"
-  },
-  {
-    "phoneCode": "973",
-    "isoCode": "BH"
-  },
-  {
-    "phoneCode": "880",
-    "isoCode": "BD"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "BB"
-  },
-  {
-    "phoneCode": "375",
-    "isoCode": "BY"
-  },
-  {
-    "phoneCode": "32",
-    "isoCode": "BE"
-  },
-  {
-    "phoneCode": "501",
-    "isoCode": "BZ"
-  },
-  {
-    "phoneCode": "229",
-    "isoCode": "BJ"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "BM"
-  },
-  {
-    "phoneCode": "975",
-    "isoCode": "BT"
-  },
-  {
-    "phoneCode": "591",
-    "isoCode": "BO"
-  },
-  {
-    "phoneCode": "387",
-    "isoCode": "BA"
-  },
-  {
-    "phoneCode": "267",
-    "isoCode": "BW"
-  },
-  {
-    "phoneCode": "55",
-    "isoCode": "BR"
-  },
-  {
-    "phoneCode": "246",
-    "isoCode": "IO"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "VG"
-  },
-  {
-    "phoneCode": "673",
-    "isoCode": "BN"
-  },
-  {
-    "phoneCode": "359",
-    "isoCode": "BG"
-  },
-  {
-    "phoneCode": "226",
-    "isoCode": "BF"
-  },
-  {
-    "phoneCode": "257",
-    "isoCode": "BI"
-  },
-  {
-    "phoneCode": "855",
-    "isoCode": "KH"
-  },
-  {
-    "phoneCode": "237",
-    "isoCode": "CM"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "CA"
-  },
-  {
-    "phoneCode": "238",
-    "isoCode": "CV"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "KY"
-  },
-  {
-    "phoneCode": "236",
-    "isoCode": "CF"
-  },
-  {
-    "phoneCode": "235",
-    "isoCode": "TD"
-  },
-  {
-    "phoneCode": "56",
-    "isoCode": "CL"
-  },
-  {
-    "phoneCode": "86",
-    "isoCode": "CN"
-  },
-  {
-    "phoneCode": "61",
-    "isoCode": "CX"
-  },
-  {
-    "phoneCode": "61",
-    "isoCode": "CC"
-  },
-  {
-    "phoneCode": "57",
-    "isoCode": "CO"
-  },
-  {
-    "phoneCode": "269",
-    "isoCode": "KM"
-  },
-  {
-    "phoneCode": "682",
-    "isoCode": "CK"
-  },
-  {
-    "phoneCode": "506",
-    "isoCode": "CR"
-  },
-  {
-    "phoneCode": "385",
-    "isoCode": "HR"
-  },
-  {
-    "phoneCode": "53",
-    "isoCode": "CU"
-  },
-  {
-    "phoneCode": "599",
-    "isoCode": "CW"
-  },
-  {
-    "phoneCode": "357",
-    "isoCode": "CY"
-  },
-  {
-    "phoneCode": "420",
-    "isoCode": "CZ"
-  },
-  {
-    "phoneCode": "243",
-    "isoCode": "CD"
-  },
-  {
-    "phoneCode": "45",
-    "isoCode": "DK"
-  },
-  {
-    "phoneCode": "253",
-    "isoCode": "DJ"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "DM"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "DO"
-  },
-  {
-    "phoneCode": "670",
-    "isoCode": "TL"
-  },
-  {
-    "phoneCode": "593",
-    "isoCode": "EC"
-  },
-  {
-    "phoneCode": "20",
-    "isoCode": "EG"
-  },
-  {
-    "phoneCode": "503",
-    "isoCode": "SV"
-  },
-  {
-    "phoneCode": "240",
-    "isoCode": "GQ"
-  },
-  {
-    "phoneCode": "291",
-    "isoCode": "ER"
-  },
-  {
-    "phoneCode": "372",
-    "isoCode": "EE"
-  },
-  {
-    "phoneCode": "251",
-    "isoCode": "ET"
-  },
-  {
-    "phoneCode": "500",
-    "isoCode": "FK"
-  },
-  {
-    "phoneCode": "298",
-    "isoCode": "FO"
-  },
-  {
-    "phoneCode": "679",
-    "isoCode": "FJ"
-  },
-  {
-    "phoneCode": "358",
-    "isoCode": "FI"
-  },
-  {
-    "phoneCode": "33",
-    "isoCode": "FR"
-  },
-  {
-    "phoneCode": "689",
-    "isoCode": "PF"
-  },
-  {
-    "phoneCode": "241",
-    "isoCode": "GA"
-  },
-  {
-    "phoneCode": "220",
-    "isoCode": "GM"
-  },
-  {
-    "phoneCode": "995",
-    "isoCode": "GE"
-  },
-  {
-    "phoneCode": "49",
-    "isoCode": "DE"
-  },
-  {
-    "phoneCode": "233",
-    "isoCode": "GH"
-  },
-  {
-    "phoneCode": "350",
-    "isoCode": "GI"
-  },
-  {
-    "phoneCode": "30",
-    "isoCode": "GR"
-  },
-  {
-    "phoneCode": "299",
-    "isoCode": "GL"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "GD"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "GU"
-  },
-  {
-    "phoneCode": "502",
-    "isoCode": "GT"
-  },
-  {
-    "phoneCode": "44",
-    "isoCode": "GG"
-  },
-  {
-    "phoneCode": "224",
-    "isoCode": "GN"
-  },
-  {
-    "phoneCode": "245",
-    "isoCode": "GW"
-  },
-  {
-    "phoneCode": "592",
-    "isoCode": "GY"
-  },
-  {
-    "phoneCode": "509",
-    "isoCode": "HT"
-  },
-  {
-    "phoneCode": "504",
-    "isoCode": "HN"
-  },
-  {
-    "phoneCode": "852",
-    "isoCode": "HK"
-  },
-  {
-    "phoneCode": "36",
-    "isoCode": "HU"
-  },
-  {
-    "phoneCode": "354",
-    "isoCode": "IS"
-  },
-  {
-    "phoneCode": "91",
-    "isoCode": "IN"
-  },
-  {
-    "phoneCode": "62",
-    "isoCode": "ID"
-  },
-  {
-    "phoneCode": "98",
-    "isoCode": "IR"
-  },
-  {
-    "phoneCode": "964",
-    "isoCode": "IQ"
-  },
-  {
-    "phoneCode": "353",
-    "isoCode": "IE"
-  },
-  {
-    "phoneCode": "44",
-    "isoCode": "IM"
-  },
-  {
-    "phoneCode": "972",
-    "isoCode": "IL"
-  },
-  {
-    "phoneCode": "39",
-    "isoCode": "IT"
-  },
-  {
-    "phoneCode": "225",
-    "isoCode": "CI"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "JM"
-  },
-  {
-    "phoneCode": "81",
-    "isoCode": "JP"
-  },
-  {
-    "phoneCode": "44",
-    "isoCode": "JE"
-  },
-  {
-    "phoneCode": "962",
-    "isoCode": "JO"
-  },
-  {
-    "phoneCode": "7",
-    "isoCode": "KZ"
-  },
-  {
-    "phoneCode": "254",
-    "isoCode": "KE"
-  },
-  {
-    "phoneCode": "686",
-    "isoCode": "KI"
-  },
-  {
-    "phoneCode": "383",
-    "isoCode": "XK"
-  },
-  {
-    "phoneCode": "965",
-    "isoCode": "KW"
-  },
-  {
-    "phoneCode": "996",
-    "isoCode": "KG"
-  },
-  {
-    "phoneCode": "856",
-    "isoCode": "LA"
-  },
-  {
-    "phoneCode": "371",
-    "isoCode": "LV"
-  },
-  {
-    "phoneCode": "961",
-    "isoCode": "LB"
-  },
-  {
-    "phoneCode": "266",
-    "isoCode": "LS"
-  },
-  {
-    "phoneCode": "231",
-    "isoCode": "LR"
-  },
-  {
-    "phoneCode": "218",
-    "isoCode": "LY"
-  },
-  {
-    "phoneCode": "423",
-    "isoCode": "LI"
-  },
-  {
-    "phoneCode": "370",
-    "isoCode": "LT"
-  },
-  {
-    "phoneCode": "352",
-    "isoCode": "LU"
-  },
-  {
-    "phoneCode": "853",
-    "isoCode": "MO"
-  },
-  {
-    "phoneCode": "389",
-    "isoCode": "MK"
-  },
-  {
-    "phoneCode": "261",
-    "isoCode": "MG"
-  },
-  {
-    "phoneCode": "265",
-    "isoCode": "MW"
-  },
-  {
-    "phoneCode": "60",
-    "isoCode": "MY"
-  },
-  {
-    "phoneCode": "960",
-    "isoCode": "MV"
-  },
-  {
-    "phoneCode": "223",
-    "isoCode": "ML"
-  },
-  {
-    "phoneCode": "356",
-    "isoCode": "MT"
-  },
-  {
-    "phoneCode": "692",
-    "isoCode": "MH"
-  },
-  {
-    "phoneCode": "222",
-    "isoCode": "MR"
-  },
-  {
-    "phoneCode": "230",
-    "isoCode": "MU"
-  },
-  {
-    "phoneCode": "262",
-    "isoCode": "YT"
-  },
-  {
-    "phoneCode": "52",
-    "isoCode": "MX"
-  },
-  {
-    "phoneCode": "691",
-    "isoCode": "FM"
-  },
-  {
-    "phoneCode": "373",
-    "isoCode": "MD"
-  },
-  {
-    "phoneCode": "377",
-    "isoCode": "MC"
-  },
-  {
-    "phoneCode": "976",
-    "isoCode": "MN"
-  },
-  {
-    "phoneCode": "382",
-    "isoCode": "ME"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "MS"
-  },
-  {
-    "phoneCode": "212",
-    "isoCode": "MA"
-  },
-  {
-    "phoneCode": "258",
-    "isoCode": "MZ"
-  },
-  {
-    "phoneCode": "95",
-    "isoCode": "MM"
-  },
-  {
-    "phoneCode": "264",
-    "isoCode": "NA"
-  },
-  {
-    "phoneCode": "674",
-    "isoCode": "NR"
-  },
-  {
-    "phoneCode": "977",
-    "isoCode": "NP"
-  },
-  {
-    "phoneCode": "31",
-    "isoCode": "NL"
-  },
-  {
-    "phoneCode": "599",
-    "isoCode": "AN"
-  },
-  {
-    "phoneCode": "687",
-    "isoCode": "NC"
-  },
-  {
-    "phoneCode": "64",
-    "isoCode": "NZ"
-  },
-  {
-    "phoneCode": "505",
-    "isoCode": "NI"
-  },
-  {
-    "phoneCode": "227",
-    "isoCode": "NE"
-  },
-  {
-    "phoneCode": "234",
-    "isoCode": "NG"
-  },
-  {
-    "phoneCode": "683",
-    "isoCode": "NU"
-  },
-  {
-    "phoneCode": "850",
-    "isoCode": "KP"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "MP"
-  },
-  {
-    "phoneCode": "47",
-    "isoCode": "NO"
-  },
-  {
-    "phoneCode": "968",
-    "isoCode": "OM"
-  },
-  {
-    "phoneCode": "92",
-    "isoCode": "PK"
-  },
-  {
-    "phoneCode": "680",
-    "isoCode": "PW"
-  },
-  {
-    "phoneCode": "970",
-    "isoCode": "PS"
-  },
-  {
-    "phoneCode": "507",
-    "isoCode": "PA"
-  },
-  {
-    "phoneCode": "675",
-    "isoCode": "PG"
-  },
-  {
-    "phoneCode": "595",
-    "isoCode": "PY"
-  },
-  {
-    "phoneCode": "51",
-    "isoCode": "PE"
-  },
-  {
-    "phoneCode": "63",
-    "isoCode": "PH"
-  },
-  {
-    "phoneCode": "64",
-    "isoCode": "PN"
-  },
-  {
-    "phoneCode": "48",
-    "isoCode": "PL"
-  },
-  {
-    "phoneCode": "351",
-    "isoCode": "PT"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "PR"
-  },
-  {
-    "phoneCode": "974",
-    "isoCode": "QA"
-  },
-  {
-    "phoneCode": "242",
-    "isoCode": "CG"
-  },
-  {
-    "phoneCode": "262",
-    "isoCode": "RE"
-  },
-  {
-    "phoneCode": "40",
-    "isoCode": "RO"
-  },
-  {
-    "phoneCode": "7",
-    "isoCode": "RU"
-  },
-  {
-    "phoneCode": "250",
-    "isoCode": "RW"
-  },
-  {
-    "phoneCode": "590",
-    "isoCode": "BL"
-  },
-  {
-    "phoneCode": "290",
-    "isoCode": "SH"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "KN"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "LC"
-  },
-  {
-    "phoneCode": "590",
-    "isoCode": "MF"
-  },
-  {
-    "phoneCode": "508",
-    "isoCode": "PM"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "VC"
-  },
-  {
-    "phoneCode": "685",
-    "isoCode": "WS"
-  },
-  {
-    "phoneCode": "378",
-    "isoCode": "SM"
-  },
-  {
-    "phoneCode": "239",
-    "isoCode": "ST"
-  },
-  {
-    "phoneCode": "966",
-    "isoCode": "SA"
-  },
-  {
-    "phoneCode": "221",
-    "isoCode": "SN"
-  },
-  {
-    "phoneCode": "381",
-    "isoCode": "RS"
-  },
-  {
-    "phoneCode": "248",
-    "isoCode": "SC"
-  },
-  {
-    "phoneCode": "232",
-    "isoCode": "SL"
-  },
-  {
-    "phoneCode": "65",
-    "isoCode": "SG"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "SX"
-  },
-  {
-    "phoneCode": "421",
-    "isoCode": "SK"
-  },
-  {
-    "phoneCode": "386",
-    "isoCode": "SI"
-  },
-  {
-    "phoneCode": "677",
-    "isoCode": "SB"
-  },
-  {
-    "phoneCode": "252",
-    "isoCode": "SO"
-  },
-  {
-    "phoneCode": "27",
-    "isoCode": "ZA"
-  },
-  {
-    "phoneCode": "82",
-    "isoCode": "KR"
-  },
-  {
-    "phoneCode": "211",
-    "isoCode": "SS"
-  },
-  {
-    "phoneCode": "34",
-    "isoCode": "ES"
-  },
-  {
-    "phoneCode": "94",
-    "isoCode": "LK"
-  },
-  {
-    "phoneCode": "249",
-    "isoCode": "SD"
-  },
-  {
-    "phoneCode": "597",
-    "isoCode": "SR"
-  },
-  {
-    "phoneCode": "47",
-    "isoCode": "SJ"
-  },
-  {
-    "phoneCode": "268",
-    "isoCode": "SZ"
-  },
-  {
-    "phoneCode": "46",
-    "isoCode": "SE"
-  },
-  {
-    "phoneCode": "41",
-    "isoCode": "CH"
-  },
-  {
-    "phoneCode": "963",
-    "isoCode": "SY"
-  },
-  {
-    "phoneCode": "886",
-    "isoCode": "TW"
-  },
-  {
-    "phoneCode": "992",
-    "isoCode": "TJ"
-  },
-  {
-    "phoneCode": "255",
-    "isoCode": "TZ"
-  },
-  {
-    "phoneCode": "66",
-    "isoCode": "TH"
-  },
-  {
-    "phoneCode": "228",
-    "isoCode": "TG"
-  },
-  {
-    "phoneCode": "690",
-    "isoCode": "TK"
-  },
-  {
-    "phoneCode": "676",
-    "isoCode": "TO"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "TT"
-  },
-  {
-    "phoneCode": "216",
-    "isoCode": "TN"
-  },
-  {
-    "phoneCode": "90",
-    "isoCode": "TR"
-  },
-  {
-    "phoneCode": "993",
-    "isoCode": "TM"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "TC"
-  },
-  {
-    "phoneCode": "688",
-    "isoCode": "TV"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "VI"
-  },
-  {
-    "phoneCode": "256",
-    "isoCode": "UG"
-  },
-  {
-    "phoneCode": "380",
-    "isoCode": "UA"
-  },
-  {
-    "phoneCode": "971",
-    "isoCode": "AE"
-  },
-  {
-    "phoneCode": "44",
-    "isoCode": "GB"
-  },
-  {
-    "phoneCode": "1",
-    "isoCode": "US"
-  },
-  {
-    "phoneCode": "598",
-    "isoCode": "UY"
-  },
-  {
-    "phoneCode": "998",
-    "isoCode": "UZ"
-  },
-  {
-    "phoneCode": "678",
-    "isoCode": "VU"
-  },
-  {
-    "phoneCode": "379",
-    "isoCode": "VA"
-  },
-  {
-    "phoneCode": "58",
-    "isoCode": "VE"
-  },
-  {
-    "phoneCode": "84",
-    "isoCode": "VN"
-  },
-  {
-    "phoneCode": "681",
-    "isoCode": "WF"
-  },
-  {
-    "phoneCode": "212",
-    "isoCode": "EH"
-  },
-  {
-    "phoneCode": "967",
-    "isoCode": "YE"
-  },
-  {
-    "phoneCode": "260",
-    "isoCode": "ZM"
-  },
-  {
-    "phoneCode": "263",
-    "isoCode": "ZW"
-  }
+    "isoCode": "AF",
+    "minLength": 9,
+    "maxLength": 9
+},
+    {
+        "phoneCode": "355",
+        "isoCode": "AL",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "213",
+        "isoCode": "DZ",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "AS",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "376",
+        "isoCode": "AD",
+        "minLength": 6,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "244",
+        "isoCode": "AO",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "AI",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "672",
+        "isoCode": "AQ",
+        "minLength": 6,
+        "maxLength": 6
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "AG",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "54",
+        "isoCode": "AR",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "374",
+        "isoCode": "AM",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "297",
+        "isoCode": "AW",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "61",
+        "isoCode": "AU",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "43",
+        "isoCode": "AT",
+        "minLength": 10,
+        "maxLength": 13
+    },
+    
+    {
+        "phoneCode": "994",
+        "isoCode": "AZ",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "BS",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "973",
+        "isoCode": "BH",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "880",
+        "isoCode": "BD",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "BB",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "375",
+        "isoCode": "BY",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "32",
+        "isoCode": "BE",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "501",
+        "isoCode": "BZ",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "229",
+        "isoCode": "BJ",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "BM",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "975",
+        "isoCode": "BT",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "591",
+        "isoCode": "BO",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "387",
+        "isoCode": "BA",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "267",
+        "isoCode": "BW",
+        "minLength": 7,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "55",
+        "isoCode": "BR",
+        "minLength": 10,
+        "maxLength": 11
+    },
+    {
+        "phoneCode": "246",
+        "isoCode": "IO",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "VG",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "673",
+        "isoCode": "BN",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "359",
+        "isoCode": "BG",
+        "minLength": 7,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "226",
+        "isoCode": "BF",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "257",
+        "isoCode": "BI",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "855",
+        "isoCode": "KH",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "237",
+        "isoCode": "CM",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "CA",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "238",
+        "isoCode": "CV",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "KY",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "236",
+        "isoCode": "CF",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "235",
+        "isoCode": "TD",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "56",
+        "isoCode": "CL",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "86",
+        "isoCode": "CN",
+        "minLength": 11,
+        "maxLength": 11
+    },
+    {
+        "phoneCode": "61",
+        "isoCode": "CX",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "61",
+        "isoCode": "CC",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "57",
+        "isoCode": "CO",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "269",
+        "isoCode": "KM",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "682",
+        "isoCode": "CK",
+        "minLength": 5,
+        "maxLength": 5
+    },
+    {
+        "phoneCode": "506",
+        "isoCode": "CR",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "385",
+        "isoCode": "HR",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    { "phoneCode": "53", "isoCode": "CU", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "599", "isoCode": "CW", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "357", "isoCode": "CY", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "420", "isoCode": "CZ", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "243", "isoCode": "CD", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "45", "isoCode": "DK", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "253", "isoCode": "DJ", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "1", "isoCode": "DM", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "1", "isoCode": "DO", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "670", "isoCode": "TL", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "593", "isoCode": "EC", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "20", "isoCode": "EG", "minLength": 9, "maxLength": 10 },
+    { "phoneCode": "503", "isoCode": "SV", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "240", "isoCode": "GQ", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "291", "isoCode": "ER", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "372", "isoCode": "EE", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "251", "isoCode": "ET", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "500", "isoCode": "FK", "minLength": 5, "maxLength": 5 },
+    { "phoneCode": "298", "isoCode": "FO", "minLength": 6, "maxLength": 6 },
+    { "phoneCode": "679", "isoCode": "FJ", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "358", "isoCode": "FI", "minLength": 7, "maxLength": 10 },
+    { "phoneCode": "33", "isoCode": "FR", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "689", "isoCode": "PF", "minLength": 6, "maxLength": 8 },
+    { "phoneCode": "241", "isoCode": "GA", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "220", "isoCode": "GM", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "995", "isoCode": "GE", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "49", "isoCode": "DE", "minLength": 7, "maxLength": 11 },
+    { "phoneCode": "233", "isoCode": "GH", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "350", "isoCode": "GI", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "30", "isoCode": "GR", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "299", "isoCode": "GL", "minLength": 6, "maxLength": 6 },
+    { "phoneCode": "1", "isoCode": "GD", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "1", "isoCode": "GU", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "502", "isoCode": "GT", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "44", "isoCode": "GG", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "224", "isoCode": "GN", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "245", "isoCode": "GW", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "592", "isoCode": "GY", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "509", "isoCode": "HT", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "504", "isoCode": "HN", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "852", "isoCode": "HK", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "36", "isoCode": "HU", "minLength": 8, "maxLength": 9 },
+    { "phoneCode": "354", "isoCode": "IS", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "91", "isoCode": "IN", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "62", "isoCode": "ID", "minLength": 9, "maxLength": 11 },
+    { "phoneCode": "98", "isoCode": "IR", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "964", "isoCode": "IQ", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "353", "isoCode": "IE", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "44", "isoCode": "IM", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "972", "isoCode": "IL", "minLength": 9, "maxLength": 10 },
+    { "phoneCode": "39", "isoCode": "IT", "minLength": 9, "maxLength": 10 },
+    { "phoneCode": "225", "isoCode": "CI", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "1", "isoCode": "JM", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "81", "isoCode": "JP", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "44", "isoCode": "JE", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "962", "isoCode": "JO", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "7", "isoCode": "KZ", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "254", "isoCode": "KE", "minLength": 9, "maxLength": 10 },
+    { "phoneCode": "686", "isoCode": "KI", "minLength": 5, "maxLength": 5 },
+    { "phoneCode": "383", "isoCode": "XK", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "965", "isoCode": "KW", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "996", "isoCode": "KG", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "856", "isoCode": "LA", "minLength": 8, "maxLength": 10 },
+    { "phoneCode": "371", "isoCode": "LV", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "961", "isoCode": "LB", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "266", "isoCode": "LS", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "231", "isoCode": "LR", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "218", "isoCode": "LY", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "423", "isoCode": "LI", "minLength": 7, "maxLength": 9 },
+    { "phoneCode": "370", "isoCode": "LT", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "352", "isoCode": "LU", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "853", "isoCode": "MO", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "389", "isoCode": "MK", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "261", "isoCode": "MG", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "265", "isoCode": "MW", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "60", "isoCode": "MY", "minLength": 9, "maxLength": 10 },
+    { "phoneCode": "960", "isoCode": "MV", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "223", "isoCode": "ML", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "356", "isoCode": "MT", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "692", "isoCode": "MH", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "222", "isoCode": "MR", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "230", "isoCode": "MU", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "262", "isoCode": "YT", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "52", "isoCode": "MX", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "691", "isoCode": "FM", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "373", "isoCode": "MD", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "377", "isoCode": "MC", "minLength": 8, "maxLength": 9 },
+    { "phoneCode": "976", "isoCode": "MN", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "382", "isoCode": "ME", "minLength": 8, "maxLength": 9 },
+    { "phoneCode": "1", "isoCode": "MS", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "212", "isoCode": "MA", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "258", "isoCode": "MZ", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "95", "isoCode": "MM", "minLength": 7, "maxLength": 9 },
+    { "phoneCode": "264", "isoCode": "NA", "minLength": 8, "maxLength": 9 },
+    { "phoneCode": "674", "isoCode": "NR", "minLength": 4, "maxLength": 7 },
+    { "phoneCode": "977", "isoCode": "NP", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "31", "isoCode": "NL", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "599", "isoCode": "AN", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "687", "isoCode": "NC", "minLength": 6, "maxLength": 6 },
+    { "phoneCode": "64", "isoCode": "NZ", "minLength": 8, "maxLength": 10 },
+    { "phoneCode": "505", "isoCode": "NI", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "227", "isoCode": "NE", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "234", "isoCode": "NG", "minLength": 8, "maxLength": 10 },
+    { "phoneCode": "683", "isoCode": "NU", "minLength": 4, "maxLength": 4 },
+    { "phoneCode": "850", "isoCode": "KP", "minLength": 8, "maxLength": 10 },
+    { "phoneCode": "1", "isoCode": "MP", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "47", "isoCode": "NO", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "968", "isoCode": "OM", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "92", "isoCode": "PK", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "680", "isoCode": "PW", "minLength": 7, "maxLength": 7 },
+    { "phoneCode": "970", "isoCode": "PS", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "507", "isoCode": "PA", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "675", "isoCode": "PG", "minLength": 7, "maxLength": 8 },
+    { "phoneCode": "595", "isoCode": "PY", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "51", "isoCode": "PE", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "63", "isoCode": "PH", "minLength": 10, "maxLength": 10 },
+    { "phoneCode": "64", "isoCode": "PN", "minLength": 4, "maxLength": 4 },
+    { "phoneCode": "48", "isoCode": "PL", "minLength": 9, "maxLength": 9 },
+    { "phoneCode": "351", "isoCode": "PT", "minLength": 9, "maxLength": 9 },
+    {
+        "phoneCode": "1",
+        "isoCode": "PR",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "974",
+        "isoCode": "QA",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "242",
+        "isoCode": "CG",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "262",
+        "isoCode": "RE",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "40",
+        "isoCode": "RO",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "7",
+        "isoCode": "RU",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "250",
+        "isoCode": "RW",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "590",
+        "isoCode": "BL",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "290",
+        "isoCode": "SH",
+        "minLength": 4,
+        "maxLength": 4
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "KN",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "LC",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "590",
+        "isoCode": "MF",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "508",
+        "isoCode": "PM",
+        "minLength": 6,
+        "maxLength": 6
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "VC",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "685",
+        "isoCode": "WS",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "378",
+        "isoCode": "SM",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "239",
+        "isoCode": "ST",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "966",
+        "isoCode": "SA",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "221",
+        "isoCode": "SN",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "381",
+        "isoCode": "RS",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "248",
+        "isoCode": "SC",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "232",
+        "isoCode": "SL",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "65",
+        "isoCode": "SG",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "SX",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "421",
+        "isoCode": "SK",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "386",
+        "isoCode": "SI",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "677",
+        "isoCode": "SB",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "252",
+        "isoCode": "SO",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "27",
+        "isoCode": "ZA",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "82",
+        "isoCode": "KR",
+        "minLength": 9,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "211",
+        "isoCode": "SS",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "34",
+        "isoCode": "ES",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "94",
+        "isoCode": "LK",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "249",
+        "isoCode": "SD",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "597",
+        "isoCode": "SR",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "47",
+        "isoCode": "SJ",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "268",
+        "isoCode": "SZ",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "46",
+        "isoCode": "SE",
+        "minLength": 7,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "41",
+        "isoCode": "CH",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "963",
+        "isoCode": "SY",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "886",
+        "isoCode": "TW",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "992",
+        "isoCode": "TJ",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "255",
+        "isoCode": "TZ",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "66",
+        "isoCode": "TH",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "228",
+        "isoCode": "TG",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "690",
+        "isoCode": "TK",
+        "minLength": 4,
+        "maxLength": 4
+    },
+    {
+        "phoneCode": "676",
+        "isoCode": "TO",
+        "minLength": 5,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "TT",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "216",
+        "isoCode": "TN",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "90",
+        "isoCode": "TR",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "993",
+        "isoCode": "TM",
+        "minLength": 8,
+        "maxLength": 8
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "TC",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "688",
+        "isoCode": "TV",
+        "minLength": 5,
+        "maxLength": 5
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "VI",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "256",
+        "isoCode": "UG",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "380",
+        "isoCode": "UA",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "971",
+        "isoCode": "AE",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "44",
+        "isoCode": "GB",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "1",
+        "isoCode": "US",
+        "minLength": 10,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "598",
+        "isoCode": "UY",
+        "minLength": 8,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "998",
+        "isoCode": "UZ",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "678",
+        "isoCode": "VU",
+        "minLength": 7,
+        "maxLength": 7
+    },
+    {
+        "phoneCode": "379",
+        "isoCode": "VA",
+        "minLength": 6,
+        "maxLength": 6
+    },
+    {
+        "phoneCode": "58",
+        "isoCode": "VE",
+        "minLength": 10,
+        "maxLength": 11
+    },
+    {
+        "phoneCode": "84",
+        "isoCode": "VN",
+        "minLength": 9,
+        "maxLength": 10
+    },
+    {
+        "phoneCode": "681",
+        "isoCode": "WF",
+        "minLength": 6,
+        "maxLength": 6
+    },
+    {
+        "phoneCode": "212",
+        "isoCode": "EH",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "967",
+        "isoCode": "YE",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "260",
+        "isoCode": "ZM",
+        "minLength": 9,
+        "maxLength": 9
+    },
+    {
+        "phoneCode": "263",
+        "isoCode": "ZW",
+        "minLength": 9,
+        "maxLength": 9
+    }
 ]

@@ -173,6 +173,13 @@ public final class CountryPickerViewController: UIViewController {
         filteredCountries = countries
         tableView.reloadData()
     }
+    
+    override public func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        // Clear search bar text and reset filter
+        searchTextField.text = ""
+        filter(for: nil)
+    }
 
     func setup() {
         setupViews()

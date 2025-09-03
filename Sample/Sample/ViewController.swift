@@ -24,5 +24,7 @@ class ViewController: UIViewController {
 extension ViewController: CountryPickerDelegate {
     func countryPicker(didSelect country: Country) {
         print(country.localizedName)
+        print(country.minLength)
+        print(country.maxLength)
     }
 }
