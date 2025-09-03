@@ -176,9 +176,16 @@ public final class CountryPickerViewController: UIViewController {
     
     override public func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        // Clear search bar text and reset filter
-        searchTextField.text = ""
-        filter(for: nil)
+        // Reload default country list every time
+        
+           countries = CountryManager.shared.getCountries().sorted {
+               $0.localizedName.localizedCaseInsensitiveCompare($1.localizedName)
+               == CountryManager.shared.config.countriesSortingComparisonResult
+           }
+
+           filteredCountries = countries
+           searchTextField.text = ""
+           tableView.reloadData()
     }
 
     func setup() {
