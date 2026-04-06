@@ -356,7 +356,7 @@
     { "phoneCode": "44", "isoCode": "IM", "minLength": 10, "maxLength": 10 },
     { "phoneCode": "972", "isoCode": "IL", "minLength": 9, "maxLength": 10 },
     { "phoneCode": "39", "isoCode": "IT", "minLength": 9, "maxLength": 10 },
-    { "phoneCode": "225", "isoCode": "CI", "minLength": 8, "maxLength": 8 },
+    { "phoneCode": "225", "isoCode": "CI", "minLength": 10, "maxLength": 10 },
     { "phoneCode": "1", "isoCode": "JM", "minLength": 10, "maxLength": 10 },
     { "phoneCode": "81", "isoCode": "JP", "minLength": 10, "maxLength": 10 },
     { "phoneCode": "44", "isoCode": "JE", "minLength": 10, "maxLength": 10 },
