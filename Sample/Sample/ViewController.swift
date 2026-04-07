@@ -27,5 +27,7 @@ extension ViewController: CountryPickerDelegate {
         print(country.minLength)
         print(country.maxLength)
         print(country.callingCode)
+        
+        print(country.e164Number(with: "4646464545"))
     }
 }
