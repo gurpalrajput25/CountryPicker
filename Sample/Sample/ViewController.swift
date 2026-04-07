@@ -26,5 +26,6 @@ extension ViewController: CountryPickerDelegate {
         print(country.localizedName)
         print(country.minLength)
         print(country.maxLength)
+        print(country.callingCode)
     }
 }
